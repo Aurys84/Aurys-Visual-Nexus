@@ -1,2 +1,14 @@
-# Aurys-Visual-Nexus
-Advanced Biometric Vision &amp; Cognitive State Monitoring Protocol - Aion Matrix Lab.
+# 👁️ Aurys Visual Nexus (AVN)
+**Státusz:** Fejlesztés alatt / Aion Mátrix Labor kutatási projekt
+
+## 🏛️ Összefoglaló
+Az Aurys Visual Nexus a Labor vizuális intelligencia központja. A protokoll célja az emberi szem biometrikus adatainak (írisz- és retinahálózat) feldolgozása, valamint a kognitív állapot (fáradtság, figyelem) valós idejű monitorozása.
+
+## 🚀 Főbb funkciók
+- **Biometrikus Indításgátlás:** Egyedi szemstruktúra alapú azonosítás.
+- **Tekintetkövető Ergonómia:** Interfészek automatikus igazítása a nézőponthoz.
+- **EIT-Kompatibilitás:** Teljes integráció a Labor biztonsági szabványaival.
+
+## 📁 Feltöltött anyagok
+- `Aurys_Visual_Nexus.pdf` (Részletes technikai specifikáció)
+- Biometrikus vizuális modellek és mérések
