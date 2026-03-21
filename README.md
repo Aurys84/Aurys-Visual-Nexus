@@ -1,3 +1,4 @@
+![1000007753](https://github.com/user-attachments/assets/9872d143-6ce3-4e4f-bde8-d2698969e409)
 # 👁️ Aurys Visual Nexus (AVN) 
 ### Aion Matrix Lab - Vision Enhancement & Assistive Module
 
