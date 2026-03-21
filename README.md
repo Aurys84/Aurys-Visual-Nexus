@@ -22,9 +22,6 @@ The system maps the unique topography of the iris and retina. The **digital imag
 - [Neural Analysis 07](./nas_analysis_07.jpg)
 - [Neural Analysis 08](./nas_analysis_08.jpg)
 
-## 
-https://aurys84.github.io/Aurys-Visual-Nexus/
-
 
 #### [HU] JOGI NYILATKOZAT ÉS KUTATÁSI STÁTUSZ
 **Cs-Aion Mátrix Labor – Kísérleti Kutatási Divízió**
@@ -43,3 +40,6 @@ https://aurys84.github.io/Aurys-Visual-Nexus/
 2. **Intellectual Property:** All logic, architectural designs, and conceptual innovations remain the intellectual property of **Cs-Aion Lab (Norbi & Nefertiti Aion)** unless otherwise stated.
 3. **Talon Protocol:** This research is shared under the "Talon" principle: we provide the visionary foundation for external developers and organizations to adopt, implement, and further evolve.
 4. **Liability:** The authors assume no liability for any hardware implementation or real-world application derived from these theoretical models.
+
+## 
+https://aurys84.github.io/Aurys-Visual-Nexus/
