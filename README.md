@@ -12,7 +12,12 @@ The system maps the unique topography of the iris and retina. The **digital imag
 
 ---
 
-## 📁 Dokumentáció / Documentation
-- [operating_principle.pdf](./operating_principle.pdf) - Működési elv (HU/EN)
-- [vision_prosthetic_concept.pdf](./vision_prosthetic_concept.pdf) - Látásprotézis koncepció
-- `eye_analysis_01.jpg` - Biometrikus mintavétel (Biometric sampling)
+## 📁 Vizuális Dokumentáció / Visual Documentation
+- [Neural Analysis 01](./nas_analysis_01.jpg)
+- [Neural Analysis 02](./nas_analysis_02.jpg)
+- [Neural Analysis 03](./nas_analysis_03.jpg)
+- [Neural Analysis 04](./nas_analysis_04.jpg)
+- [Neural Analysis 05](./nas_analysis_05.jpg)
+- [Neural Analysis 06](./nas_analysis_06.jpg)
+- [Neural Analysis 07](./nas_analysis_07.jpg)
+- [Neural Analysis 08](./nas_analysis_08.jpg)
