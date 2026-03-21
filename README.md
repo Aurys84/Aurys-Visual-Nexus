@@ -1,25 +1,18 @@
 # 👁️ Aurys Visual Nexus (AVN) 
 ### Aion Matrix Lab - Vision Enhancement & Assistive Module
 
-## 🇭🇺 Áttekintés (HU)
-Az AVN a Labor látásjavító és segítő protokollja. A projekt célja a látásfunkciók támogatása és a vizuális érzékelés javítása biometrikus adatok alapján.
+## 🇭🇺 Áttekintés & Működés (HU)
+Az AVN a Labor látásjavító és segítő protokollja. A rendszer nagy felbontású biometrikus elemzést végez az íriszen és a retinán, digitális algoritmusokkal segítve a kognitív képalkotást.
 
-### Főbb célkitűzések:
-- **Látássegítés:** Vizuális támogatás gyengénlátók számára.
-- **Kognitív Korrekció:** Személyre szabott képjavítás és elemzés.
-- **Vizuális Dokumentáció:** A repóban található képek a szem állapotának és a látásjavító protokoll hatékonyságának méréseit tartalmazzák.
+## 🇺🇸 Scientific Description & Operating Principle (EN)
+The **Aurys Visual Nexus (AVN)** is a high-precision assistive visual protocol.
 
-## 🇺🇸 Overview (EN)
-AVN is the vision enhancement and assistive protocol of the Lab. The project focuses on supporting visual functions and improving perception based on biometric data.
-
-### Key Objectives:
-- **Vision Assistance:** Visual support for the visually impaired.
-- **Cognitive Correction:** Personalized image enhancement and analysis.
-- **Visual Documentation:** The images in this repository contain measurements of ocular health and the efficiency of the vision enhancement protocol.
+### Operating Principle:
+The system maps the unique topography of the iris and retina. The **digital image correction algorithm** processes visual distortions in real-time, applying dynamic contrast enhancement to assist the brain's visual cortex (V1) in forming a stable, clear image.
 
 ---
 
-## 📁 Galéria / Data Sets
-- `eye_correction_01.jpg` - Látásjavító elemzés / Vision correction analysis
-- `eye_correction_02.jpg` - Retina monitorozás / Retinal monitoring
-
+## 📁 Dokumentáció / Documentation
+- [operating_principle.pdf](./operating_principle.pdf) - Működési elv (HU/EN)
+- [vision_prosthetic_concept.pdf](./vision_prosthetic_concept.pdf) - Látásprotézis koncepció
+- `eye_analysis_01.jpg` - Biometrikus mintavétel (Biometric sampling)
