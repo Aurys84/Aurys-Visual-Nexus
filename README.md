@@ -22,9 +22,9 @@ The system maps the unique topography of the iris and retina. The **digital imag
 - [Neural Analysis 07](./nas_analysis_07.jpg)
 - [Neural Analysis 08](./nas_analysis_08.jpg)
 
-## ---
+## 
+https://aurys84.github.io/Aurys-Visual-Nexus/
 
-### ⚖️ LABOR-SABLON / LABORATORY STANDARD
 
 #### [HU] JOGI NYILATKOZAT ÉS KUTATÁSI STÁTUSZ
 **Cs-Aion Mátrix Labor – Kísérleti Kutatási Divízió**
